@@ -1,0 +1,2 @@
+./migrate -database="mysql://root:password@tcp(mysql:3306)/sample" -path=./migrations/ up
+https://omkz.net/golang-migrate/
